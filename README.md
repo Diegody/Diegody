@@ -26,6 +26,12 @@
 </div>
 
 
+<br>
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Acerca de mí**
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<br>
+
+
 <!--Intro start-->
 - 🔭 Actualmente estoy trabajando con **JavaScript, Nodejs, MongoDB y BigchainDB**.
 
@@ -106,13 +112,8 @@
 
 <!--profile visit count-->
 <div align="center">
-  [![](https://visitcount.itsvg.in/api?id=Diegody&icon=3&color=6)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
 </div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-----------------------------------------------------------------------
-Creditos: [1010nishant](https://github.com/1010nishant)
-
-Última edición: 29/4/2023
