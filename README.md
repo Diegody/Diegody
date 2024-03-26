@@ -11,11 +11,12 @@
 
 
 <!--- snake -->
+<!--
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
+-->
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -81,7 +82,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,github,html,idea,java,js,linux,mongodb,mysql,oracle,nodejs,postman,py,dart,flutter,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,androidstudio,github,html,idea,java,js,linux,mongodb,mysql,oracle,nodejs,postman,py,php,dart,flutter,ts,vscode&perline=14" />
   </a>
 </p>
 
@@ -106,7 +107,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Diegody&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
